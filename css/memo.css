@@ -178,6 +178,9 @@ form {
 h1{
 	font-size: 100%;
 }
+
+@media screen and(min-width:481px) {
+}
 main{
 	width:100%;
 	display: block;
@@ -219,7 +222,7 @@ li:hover{
 }
 #text_area{
 margin: 10px 3%;
-width: 95%;
+width: 90%;
 height: 200px;
 font-size:80%;
 box-shadow: 3px 3px 3px 3px #555;
